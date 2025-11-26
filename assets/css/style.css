@@ -76,7 +76,7 @@ button:focus {
 
 h3 {
   font-weight: 600;
-  color: #3c0c70;
+  color: black;
   font-size: 22px;
 }
 
@@ -113,7 +113,7 @@ h3 {
 
 .theme-btn .default-btn {
   font-size: 18px;
-  background: #ff440a;
+  background: #105290;
   color: #ffffff;
   padding: 15px 30px;
   border-radius: 5px;
@@ -140,7 +140,7 @@ h3 {
 }
 
 .theme-btn .default-btn:hover {
-  color: #ff440a;
+  color: #105290;
 }
 
 .theme-btn .default-btn:hover::before {
@@ -156,7 +156,7 @@ h3 {
 
 .section-title span {
   font-size: 20px;
-  color: #ff440a;
+  color: #105290;
   font-weight: 700;
   margin-bottom: 15px;
   display: inline-block;
@@ -166,7 +166,7 @@ h3 {
 .section-title h2 {
   font-size: 40px;
   font-weight: 700;
-  color: #3c0c70;
+  color: black;
   margin-bottom: 15px;
 }
 
@@ -218,7 +218,7 @@ h3 {
 }
 
 .buy-now-btn:hover {
-  background-color: #ff440a;
+  background-color: #105290;
   color: #ffffff;
 }
 
@@ -232,7 +232,7 @@ h3 {
 }
 
 .header-area {
-  background: #3c0c70;
+  background: black;
   padding: 10px 0 10px;
 }
 
@@ -254,7 +254,7 @@ h3 {
 }
 
 .header-area .header-left ul li a i {
-  color: #ff440a;
+  color: #105290;
   margin-right: 6px;
   display: inline-block;
 }
@@ -283,7 +283,7 @@ h3 {
 }
 
 .header-area .header-right .header-social li a i:hover {
-  color: #ff440a;
+  color: #105290;
 }
 
 /* Header CSS End */
@@ -315,11 +315,11 @@ h3 {
 }
 
 .navbar-area .main-nav .navbar .navbar-nav .nav-item a:hover {
-  color: #ff440a;
+  color: #105290;
 }
 
 .navbar-area .main-nav .navbar .navbar-nav .nav-item .active {
-  color: #ff440a;
+  color: #105290;
 }
 
 .navbar-area .main-nav .navbar .navbar-nav .nav-item .dropdown-menu {
@@ -330,7 +330,7 @@ h3 {
   -webkit-transition: .5s all;
   transition: .5s all;
   top: 80px;
-  border-top: 2px solid #ff440a;
+  border-top: 2px solid #105290;
 }
 
 .navbar-area .main-nav .navbar .navbar-nav .nav-item .dropdown-menu::before {
@@ -340,7 +340,7 @@ h3 {
   height: 0;
   border-left: 10px solid transparent;
   border-right: 10px solid transparent;
-  border-bottom: 20px solid #ff440a;
+  border-bottom: 20px solid #105290;
   left: 35px;
   top: -20px;
 }
@@ -354,15 +354,15 @@ h3 {
   -webkit-transition: 0s;
   transition: 0s;
   margin: 0;
-  border-bottom: 1px dashed #ff440a;
+  border-bottom: 1px dashed #105290;
 }
 
 .navbar-area .main-nav .navbar .navbar-nav .nav-item .dropdown-menu .nav-item a:hover {
-  color: #ff440a;
+  color: #105290;
 }
 
 .navbar-area .main-nav .navbar .navbar-nav .nav-item .dropdown-menu .nav-item .active {
-  color: #ff440a;
+  color: #105290;
 }
 
 .navbar-area .main-nav .navbar .navbar-nav .nav-item .dropdown-menu .nav-item:last-child a {
@@ -376,7 +376,7 @@ h3 {
 .navbar-area .main-nav .navbar .navbar-nav .nav-item:hover .dropdown-toggle::after {
   -webkit-transform: rotate(-90deg);
           transform: rotate(-90deg);
-  color: #ff440a;
+  color: #105290;
   top: -1px;
 }
 
@@ -467,7 +467,7 @@ h3 {
 
 .banner-slider .banner-item .banner-text .banner-btn .default-btn {
   font-size: 18px;
-  background: #ff440a;
+  background: #105290;
   color: #ffffff;
   padding: 18px 30px;
   border-radius: 5px;
@@ -494,7 +494,7 @@ h3 {
 }
 
 .banner-slider .banner-item .banner-text .banner-btn .default-btn:hover {
-  color: #ff440a;
+  color: #105290;
 }
 
 .banner-slider .banner-item .banner-text .banner-btn .default-btn:hover::before {
@@ -523,7 +523,7 @@ h3 {
   position: absolute;
   left: 20px;
   top: 45%;
-  background: #ff440a !important;
+  background: #105290 !important;
   color: #ffffff !important;
   width: 50px;
   height: 50px;
@@ -547,7 +547,7 @@ h3 {
 
 .banner-slider .owl-prev:hover, .banner-slider .owl-next:hover {
   background: #ffffff !important;
-  color: #ff440a !important;
+  color: #105290 !important;
 }
 
 .banner-slider .owl-next {
@@ -570,11 +570,11 @@ h3 {
 }
 
 .banner-bg-one {
-  background-image: url(../img/banner/1.jpg);
+  background-image: url(../img/banner/pg.png);
 }
 
 .banner-bg-two {
-  background-image: url(../img/banner/2.jpg);
+  background-image: url(../img/banner/pg.png);
 }
 
 /* Banner CSS End */
@@ -598,7 +598,7 @@ h3 {
 }
 
 .features-section .feature-card i {
-  color: #3c0c70;
+  color: black;
   font-size: 35px;
   width: 50px;
   height: 50px;
@@ -613,7 +613,7 @@ h3 {
 .features-section .feature-card span {
   display: block;
   font-size: 25px;
-  color: #ff440a;
+  color: #105290;
   font-weight: 700;
   margin-bottom: 15px;
   line-height: 1;
@@ -709,8 +709,8 @@ h3 {
 }
 
 .about-section .about-text .nav-tabs .nav-item .nav-link.active {
-  border-bottom: 2px solid #ff440a;
-  color: #ff440a;
+  border-bottom: 2px solid #105290;
+  color: #105290;
   font-weight: 700;
 }
 
@@ -723,7 +723,7 @@ h3 {
 }
 
 .about-section .about-text .theme-btn .default-btn {
-  border: 1px solid #ff440a;
+  border: 1px solid #105290;
   margin: 0;
 }
 
@@ -773,7 +773,7 @@ h3 {
   line-height: 80px;
   text-align: center;
   position: absolute;
-  color: #ff440a;
+  color: #105290;
   border-radius: 50px;
   background: #ffffff;
   -webkit-box-shadow: 3px 5px 25px 0 rgba(0, 0, 0, 0.1);
@@ -797,12 +797,12 @@ h3 {
 }
 
 .transport-section .transport-card .transport-text .theme-btn .default-btn {
-  border: 1px solid #ff440a;
+  border: 1px solid #105290;
   margin: 0;
 }
 
 .transport-section .transport-card:hover .transport-text i {
-  background: #ff440a;
+  background: #105290;
   color: #ffffff;
   -webkit-animation: rotate360 3s 1 linear;
           animation: rotate360 3s 1 linear;
@@ -821,7 +821,7 @@ h3 {
 
 .why-choose-section .why-choose-img {
   position: relative;
-  background-image: url(../img/why-choose/1.jpg);
+  background-image: url(../img/PEUGEOT_308PHEV_2103STYP_007B.jpg);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -842,7 +842,7 @@ h3 {
 .why-choose-section .why-choose-img .shipping-text {
   max-width: 400px;
   border-radius: 10px;
-  background: #ff440a;
+  background: #105290;
   padding: 65px 30px;
   position: absolute;
   top: 25%;
@@ -871,7 +871,7 @@ h3 {
 }
 
 .why-choose-section .why-choose-img .shipping-text form .shipping-btn {
-  background: #3c0c70;
+  background: black;
   color: #ffffff;
   display: block;
   height: 50px;
@@ -908,7 +908,7 @@ h3 {
 }
 
 .why-choose-section .why-choose-img .shipping-text form .shipping-btn:hover {
-  color: #3c0c70;
+  color: black;
 }
 
 .why-choose-section .why-choose-text {
@@ -941,14 +941,14 @@ h3 {
   position: absolute;
   left: 20px;
   top: 15px;
-  color: #3c0c70;
+  color: black;
   -webkit-transition: .5s;
   transition: .5s;
   font-size: 25px;
 }
 
 .why-choose-section .why-choose-text .accordions .accordion-item .accordion-title.active-title {
-  background-color: #3c0c70;
+  background-color: black;
 }
 
 .why-choose-section .why-choose-text .accordions .accordion-item .accordion-title.active-title h2, .why-choose-section .why-choose-text .accordions .accordion-item .accordion-title.active-title i {
@@ -969,7 +969,7 @@ h3 {
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
-  color: #3c0c70;
+  color: black;
   line-height: 20px;
 }
 
@@ -1012,14 +1012,14 @@ h3 {
 
 .get-quote-section .quote-text .offer-text span {
   color: #ffffff;
-  background: #3c0c70;
+  background: black;
   display: inline-block;
   width: 100px;
   height: 100px;
   line-height: 90px;
   text-align: center;
   border-radius: 100px;
-  border: 5px solid #ff440a;
+  border: 5px solid #105290;
   font-weight: 700;
   font-size: 20px;
 }
@@ -1028,7 +1028,7 @@ h3 {
   position: absolute;
   top: 25px;
   right: -110px;
-  background: #ff440a;
+  background: #105290;
   color: #ffffff;
   font-weight: 700;
   width: 120px;
@@ -1054,7 +1054,7 @@ h3 {
 }
 
 .get-quote-section .quote-text .theme-btn .default-btn {
-  border: 1px solid #ff440a;
+  border: 1px solid #105290;
   margin: 0;
 }
 
@@ -1117,7 +1117,7 @@ h3 {
 
 .get-quote-section .quote-form form button {
   font-size: 18px;
-  background: #ff440a;
+  background: #105290;
   color: #ffffff;
   padding: 10px 25px;
   border-radius: 5px;
@@ -1144,7 +1144,7 @@ h3 {
 }
 
 .get-quote-section .quote-form form button:hover {
-  color: #ff440a;
+  color: #105290;
 }
 
 .get-quote-section .quote-form form button:hover::before {
@@ -1216,7 +1216,7 @@ h3 {
 .quote-bg::before {
   position: absolute;
   content: '';
-  background: #3c0c70;
+  background: black;
   width: 100%;
   height: 100%;
   left: 0;
@@ -1328,7 +1328,7 @@ h3 {
   position: absolute;
   left: -65px;
   top: 35%;
-  background: #ff440a !important;
+  background: #105290 !important;
   color: #ffffff !important;
   width: 45px;
   height: 45px;
@@ -1342,7 +1342,7 @@ h3 {
 
 .feedback-section .feedback-slider .owl-prev:hover, .feedback-section .feedback-slider .owl-next:hover {
   background: #ffffff !important;
-  color: #ff440a !important;
+  color: #105290 !important;
 }
 
 .feedback-section .feedback-slider .owl-next {
@@ -1375,7 +1375,7 @@ h3 {
 .feedback-bg::before {
   position: absolute;
   content: '';
-  background: #3c0c70;
+  background: black;
   width: 100%;
   height: 100%;
   top: 0;
@@ -1447,11 +1447,11 @@ h3 {
 }
 
 .blog-section .blog-card .blog-text h3 a {
-  color: #3c0c70;
+  color: black;
 }
 
 .blog-section .blog-card .blog-text h3 a:hover {
-  color: #ff440a;
+  color: #105290;
 }
 
 .blog-section .blog-card .blog-text ul {
@@ -1465,7 +1465,7 @@ h3 {
 }
 
 .blog-section .blog-card .blog-text ul li i {
-  color: #ff440a;
+  color: #105290;
   margin-right: 5px;
 }
 
@@ -1478,7 +1478,7 @@ h3 {
 }
 
 .blog-section .blog-card .blog-text .blog-btn i {
-  color: #ff440a;
+  color: #105290;
   font-size: 25px;
   width: 50px;
   width: 50px;
@@ -1492,7 +1492,7 @@ h3 {
 }
 
 .blog-section .blog-card .blog-text .blog-btn i:hover {
-  background: #ff440a;
+  background: #105290;
   color: #ffffff;
 }
 
@@ -1508,7 +1508,7 @@ h3 {
 }
 
 .newsletter-section .newsletter-area {
-  background: #190231;
+  background: black;
   padding: 65px;
   position: relative;
   border-radius: 10px;
@@ -1559,7 +1559,7 @@ h3 {
 
 .newsletter-section .newsletter-area .newsletter-form .default-btn {
   font-size: 17px;
-  background: #ff440a;
+  background: #105290;
   color: #ffffff;
   padding: 10px 25px;
   border-radius: 5px;
@@ -1570,7 +1570,7 @@ h3 {
   overflow: hidden;
   right: 4px;
   top: 4px;
-  border: 1px solid #ff440a;
+  border: 1px solid #105290;
 }
 
 .newsletter-section .newsletter-area .newsletter-form .default-btn::before {
@@ -1589,7 +1589,7 @@ h3 {
 }
 
 .newsletter-section .newsletter-area .newsletter-form .default-btn:hover {
-  color: #ff440a;
+  color: #105290;
 }
 
 .newsletter-section .newsletter-area .newsletter-form .default-btn:hover::before {
@@ -1615,8 +1615,8 @@ h3 {
 /* Newsletter CSS End */
 /* Footer CSS Start */
 .footer-area {
-  background: #3c0c70;
-  padding-top: 200px;
+  background: black;
+  padding-top: 50px;
   position: relative;
   z-index: 0;
 }
@@ -1639,7 +1639,7 @@ h3 {
   height: 35px;
   text-align: center;
   line-height: 35px;
-  background: #461877;
+  /* background: #461877; */
   border-radius: 5px;
   display: inline-block;
   margin-right: 10px;
@@ -1650,7 +1650,7 @@ h3 {
 .footer-area .footer-widget .footer-social a i::after {
   position: absolute;
   content: '';
-  background: #ff440a;
+  background: #105290;
   width: 100%;
   height: 100%;
   border-radius: 5px;
@@ -1678,7 +1678,7 @@ h3 {
 .footer-area .footer-widget h3::before {
   position: absolute;
   content: '';
-  background: #ff440a;
+  background: #105290;
   width: 3px;
   height: 100%;
   left: 0px;
@@ -1688,7 +1688,7 @@ h3 {
 .footer-area .footer-widget h3::after {
   position: absolute;
   content: '';
-  background: #3c0c70;
+  background: black;
   width: 3px;
   height: 3px;
   left: 0;
@@ -1718,7 +1718,7 @@ h3 {
   height: 2px;
   top: 15px;
   left: 0;
-  background: #ff440a;
+  background: #105290;
   -webkit-transition: .5s;
   transition: .5s;
 }
@@ -1743,7 +1743,7 @@ h3 {
 }
 
 .footer-area .footer-widget ul li a:hover {
-  color: #ff440a;
+  color: #105290;
 }
 
 .footer-area .footer-widget ul :last-child {
@@ -1752,7 +1752,7 @@ h3 {
 
 .footer-area .copyright-area {
   text-align: center;
-  background: #190231;
+  background: black;
   margin-top: 60px;
 }
 
@@ -1767,7 +1767,7 @@ h3 {
 }
 
 .footer-area .copyright-area p a:hover {
-  color: #ff440a;
+  color: #105290;
 }
 
 .footer-area .lines {
@@ -1838,11 +1838,11 @@ h3 {
 }
 
 .nav-style-two .main-nav .navbar .navbar-nav .nav-item a:hover {
-  color: #ff440a;
+  color: #105290;
 }
 
 .nav-style-two.is-sticky {
-  background: #3c0c70;
+  background: black;
   border-bottom: 0;
 }
 
@@ -1930,7 +1930,7 @@ h3 {
   transition: .5s;
   border-radius: 5px;
   position: absolute;
-  background: #3c0c70;
+  background: black;
 }
 
 .choose-style-two .choose-card::after {
@@ -1944,11 +1944,11 @@ h3 {
   transition: .5s;
   border-radius: 5px;
   position: absolute;
-  background: #3c0c70;
+  background: black;
 }
 
 .choose-style-two .choose-card i {
-  color: #ff440a;
+  color: #105290;
   background: #fff0ec;
   margin-bottom: 20px;
   display: inline-block;
@@ -1978,7 +1978,7 @@ h3 {
 }
 
 .choose-style-two .choose-card:hover i {
-  color: #3c0c70;
+  color: black;
 }
 
 .choose-style-two .why-choose-image {
@@ -2037,7 +2037,7 @@ h3 {
 
 .track-product .track-text .newsletter-form .default-btn {
   font-size: 17px;
-  background: #ff440a;
+  background: #105290;
   color: #ffffff;
   padding: 10px 40px;
   border-radius: 5px;
@@ -2048,7 +2048,7 @@ h3 {
   overflow: hidden;
   right: 5px;
   top: 4px;
-  border: 1px solid #ff440a;
+  border: 1px solid #105290;
 }
 
 .track-product .track-text .newsletter-form .default-btn::before {
@@ -2067,7 +2067,7 @@ h3 {
 }
 
 .track-product .track-text .newsletter-form .default-btn:hover {
-  color: #ff440a;
+  color: #105290;
 }
 
 .track-product .track-text .newsletter-form .default-btn:hover::before {
@@ -2152,7 +2152,7 @@ h3 {
 .facilities-section .facilities-text h2 {
   font-size: 35px;
   font-weight: 700;
-  color: #3c0c70;
+  color: black;
   margin-bottom: 10px;
 }
 
@@ -2168,7 +2168,7 @@ h3 {
 .facilities-section .facilities-text ul li {
   list-style: none;
   font-size: 20px;
-  color: #3c0c70;
+  color: black;
   margin-bottom: 5px;
 }
 
@@ -2188,7 +2188,7 @@ h3 {
 }
 
 .facilities-section .facilities-text .theme-btn .default-btn {
-  border: 1px solid #ff440a;
+  border: 1px solid #105290;
 }
 
 .facilities-section .facilities-img {
@@ -2241,7 +2241,7 @@ h3 {
 .contact-section .contact-area h2 {
   font-size: 35px;
   font-weight: 600;
-  color: #3c0c70;
+  color: black;
   margin-bottom: 30px;
 }
 
@@ -2283,13 +2283,13 @@ h3 {
 }
 
 .contact-section .contact-area .form-group .list-unstyled {
-  color: #ff440a;
+  color: #105290;
   font-size: 15px;
 }
 
 .contact-section .contact-area .default-btn {
   font-size: 18px;
-  background: #ff440a;
+  background: #105290;
   color: #ffffff;
   padding: 10px 30px;
   border-radius: 5px;
@@ -2298,7 +2298,7 @@ h3 {
   position: relative;
   z-index: 0;
   overflow: hidden;
-  border: 1px solid #ff440a;
+  border: 1px solid #105290;
 }
 
 .contact-section .contact-area .default-btn::before {
@@ -2317,7 +2317,7 @@ h3 {
 }
 
 .contact-section .contact-area .default-btn:hover {
-  color: #ff440a;
+  color: #105290;
 }
 
 .contact-section .contact-area .default-btn:hover::before {
@@ -2345,7 +2345,7 @@ h3 {
 .banner-style-three {
   height: 100vh;
   position: relative;
-  background: #3c0c70;
+  background: black;
   padding-top: 60px;
 }
 
@@ -2420,7 +2420,7 @@ h3 {
 }
 
 .about-style-three .about-img::before {
-  background: #3c0c70;
+  background: black;
   width: 90px;
   height: 150px;
   top: -65px;
@@ -2433,7 +2433,7 @@ h3 {
 }
 
 .about-style-three .about-img::after {
-  background: #3c0c70;
+  background: black;
   width: 90px;
   height: 150px;
   bottom: -60px;
@@ -2501,7 +2501,7 @@ h3 {
 }
 
 .achivement-section .features-section .feature-card:hover {
-  background: #ff440a;
+  background: #105290;
 }
 
 .achivement-section .features-section .feature-card:hover span, .achivement-section .features-section .feature-card:hover h3, .achivement-section .features-section .feature-card:hover p {
@@ -2556,7 +2556,7 @@ h3 {
 }
 
 .feedback-style-three .feedback-slider-area .slider-items .client-info span {
-  color: #ff440a;
+  color: #105290;
   font-size: 15px;
 }
 
@@ -2564,7 +2564,7 @@ h3 {
   position: absolute;
   left: 20px;
   top: 45%;
-  background: #ff440a !important;
+  background: #105290 !important;
   color: #ffffff !important;
   width: 50px;
   height: 50px;
@@ -2574,12 +2574,12 @@ h3 {
   opacity: 0;
   -webkit-transition: .5s;
   transition: .5s;
-  border: 1px solid #ff440a;
+  border: 1px solid #105290;
 }
 
 .feedback-style-three .feedback-slider-area .owl-prev:hover, .feedback-style-three .feedback-slider-area .owl-next:hover {
   background: #ffffff !important;
-  color: #ff440a !important;
+  color: #105290 !important;
 }
 
 .feedback-style-three .feedback-slider-area .owl-next {
@@ -2590,13 +2590,13 @@ h3 {
 .feedback-style-three .feedback-slider-area:hover .owl-prev {
   left: 40px;
   opacity: 1;
-  border: 1px solid #ff440a;
+  border: 1px solid #105290;
 }
 
 .feedback-style-three .feedback-slider-area:hover .owl-next {
   right: 40px;
   opacity: 1;
-  border: 1px solid #ff440a;
+  border: 1px solid #105290;
 }
 
 .feedback-style-three .feedback-slider-area .owl-nav {
@@ -2674,11 +2674,11 @@ h3 {
 }
 
 .page-title .title-text ul li a:hover {
-  color: #ff440a;
+  color: #105290;
 }
 
 .page-title.title-bg-1 {
-  background-image: url(../img/page-bg/1.jpg);
+  background-image: url(../img/recbanner.jpg);
 }
 
 /* Page Title CSS End*/
@@ -2689,7 +2689,7 @@ h3 {
 
 .about-style-two .about-img::before {
   background: none;
-  border: 2px solid #ff440a;
+  border: 2px solid #105290;
 }
 
 .about-style-two .about-img::after {
@@ -2796,7 +2796,7 @@ h3 {
 .transport-style-three .transport-card .transport-img::before {
   position: absolute;
   content: '';
-  background: #3c0c70;
+  background: black;
   width: 100%;
   height: 100%;
   top: 0;
@@ -2811,7 +2811,7 @@ h3 {
 .transport-style-three .transport-card .transport-img::after {
   position: absolute;
   content: '';
-  background: #3c0c70;
+  background: black;
   width: 100%;
   height: 100%;
   right: 0;
@@ -2865,7 +2865,7 @@ h3 {
 
 .transport-style-four .transport-card .transport-text a i {
   background: transparent;
-  color: #ff440a;
+  color: #105290;
   width: 55px;
   height: 55px;
   font-size: 30px;
@@ -2874,7 +2874,7 @@ h3 {
   -webkit-box-shadow: 0 0 0 0;
           box-shadow: 0 0 0 0;
   position: unset;
-  border: 1px dashed #ff440a;
+  border: 1px dashed #105290;
 }
 
 .transport-style-four .transport-card:hover a i {
@@ -2902,7 +2902,7 @@ h3 {
   font-size: 25px;
   font-weight: 700;
   margin-bottom: 15px;
-  color: #3c0c70;
+  color: black;
 }
 
 .service-details-area .service-post-area p {
@@ -2916,7 +2916,7 @@ h3 {
 
 .service-details-area .service-post-area ul li {
   list-style: none;
-  color: #3c0c70;
+  color: black;
   font-size: 16px;
   font-weight: 600;
   margin-bottom: 8px;
@@ -2945,7 +2945,7 @@ h3 {
   font-size: 20px;
   padding: 20px;
   color: #ffffff;
-  background: #3c0c70;
+  background: black;
   margin-bottom: 0;
   font-weight: 700;
   border-radius: 10px 10px 0 0;
@@ -2972,11 +2972,11 @@ h3 {
 }
 
 .service-details-area .service-sidebar .sidebar-widget ul li:last-child {
-  border-bottom: 0px solid #3c0c70;
+  border-bottom: 0px solid black;
 }
 
 .service-details-area .service-sidebar .sidebar-widget ul li:hover {
-  background: #ff440a;
+  background: #105290;
   color: #ffffff;
 }
 
@@ -3023,7 +3023,7 @@ h3 {
 .faq-section .accordions .accordion-item {
   background-color: #f9f9f9;
   margin-bottom: 30px;
-  border: 1px solid #3c0c70;
+  border: 1px solid black;
 }
 
 .faq-section .accordions .accordion-item .accordion-title {
@@ -3036,7 +3036,7 @@ h3 {
 }
 
 .faq-section .accordions .accordion-item .accordion-title.active-title {
-  background-color: #3c0c70;
+  background-color: black;
 }
 
 .faq-section .accordions .accordion-item .accordion-title.active-title h2 {
@@ -3057,7 +3057,7 @@ h3 {
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
-  color: #3c0c70;
+  color: black;
   line-height: 20px;
 }
 
@@ -3108,7 +3108,7 @@ h3 {
 
 .error-section h2 {
   font-size: 50px;
-  color: #3c0c70;
+  color: black;
   font-family: "Titillium Web", sans-serif;
   text-align: center;
   font-weight: 700;
@@ -3120,7 +3120,7 @@ h3 {
 .error-section .theme-btn .default-btn {
   -webkit-box-shadow: 0 0 30px rgba(0, 0, 0, 0.15);
           box-shadow: 0 0 30px rgba(0, 0, 0, 0.15);
-  border: 1px solid #ff440a;
+  border: 1px solid #105290;
   padding: 15px 40px;
 }
 
@@ -3156,7 +3156,7 @@ h3 {
   font-size: 30px;
   font-weight: 600;
   margin-bottom: 30px;
-  color: #3c0c70;
+  color: black;
 }
 
 .terms-section .terms-text h3 {
@@ -3183,7 +3183,7 @@ h3 {
 }
 
 .coming-soon a {
-  color: #ff440a;
+  color: #105290;
 }
 
 .coming-soon a:hover {
@@ -3198,8 +3198,8 @@ h3 {
 
 /*----------  Blog Page One CSS End ----------*/
 /*----------  Blog Page Two CSS Start ----------*/
-.page-title.title-bg-7 {
-  background-image: url(../img/page-bg/7.jpg);
+.page-title .title-bg-7 {
+  background-image: url(../img/recbanner.jpg);
 }
 
 .blog-style-three .blog-card .blog-img {
@@ -3240,7 +3240,7 @@ h3 {
 }
 
 .blog-style-three .blog-card .blog-img .blog-btn a:hover {
-  background: #3c0c70;
+  background: black;
 }
 
 .blog-style-three .blog-card .blog-text p {
@@ -3278,19 +3278,19 @@ h3 {
 }
 
 .blog-style-three nav .pagination .page-item .page-link.active {
-  background: #3c0c70;
+  background: black;
   color: #ffffff;
 }
 
 .blog-style-three nav .pagination .page-item .page-link:hover {
-  background: #3c0c70;
+  background: black;
   color: #ffffff;
 }
 
 /*----------  Blog Page Two CSS End ----------*/
 /*----------  Blog Details Page Two CSS Start ----------*/
 .page-title.title-bg-7 {
-  background-image: url(../img/page-bg/7.jpg);
+  background-image: url(../img/recbanner.jpg);
 }
 
 .blog-details-area .blog-post-area .blog-details-img {
@@ -3306,7 +3306,7 @@ h3 {
   font-size: 25px;
   font-weight: 700;
   margin-bottom: 15px;
-  color: #3c0c70;
+  color: black;
 }
 
 .blog-details-area .blog-post-area p {
@@ -3320,7 +3320,7 @@ h3 {
 
 .blog-details-area .blog-post-area ul li {
   list-style: none;
-  color: #3c0c70;
+  color: black;
   font-size: 16px;
   font-weight: 600;
   margin-bottom: 8px;
@@ -3360,24 +3360,24 @@ h3 {
 }
 
 .blog-details-area .blog-sidebar .blog-search form input:focus {
-  border: 1px solid #3c0c70;
+  border: 1px solid black;
   outline: 0;
 }
 
 .blog-details-area .blog-sidebar .blog-search form ::-webkit-input-placeholder {
-  color: #3c0c70;
+  color: black;
 }
 
 .blog-details-area .blog-sidebar .blog-search form :-ms-input-placeholder {
-  color: #3c0c70;
+  color: black;
 }
 
 .blog-details-area .blog-sidebar .blog-search form ::-ms-input-placeholder {
-  color: #3c0c70;
+  color: black;
 }
 
 .blog-details-area .blog-sidebar .blog-search form ::placeholder {
-  color: #3c0c70;
+  color: black;
 }
 
 .blog-details-area .blog-sidebar .blog-search form button {
@@ -3387,7 +3387,7 @@ h3 {
 }
 
 .blog-details-area .blog-sidebar .blog-search form button i {
-  color: #3c0c70;
+  color: black;
   width: 40px;
   height: 40px;
   display: inline-block;
@@ -3400,7 +3400,7 @@ h3 {
 }
 
 .blog-details-area .blog-sidebar .blog-search form button i:hover {
-  background: #3c0c70;
+  background: black;
   color: #ffffff;
 }
 
@@ -3414,7 +3414,7 @@ h3 {
 .blog-details-area .blog-sidebar .blog-widget h3 {
   padding: 20px;
   color: #ffffff;
-  background: #3c0c70;
+  background: black;
   margin-bottom: 0;
   font-weight: 700;
   border-radius: 10px 10px 0 0;
@@ -3450,7 +3450,7 @@ h3 {
 }
 
 .blog-details-area .blog-sidebar .blog-widget .post-item .post-info h4 a:hover {
-  color: #ff440a;
+  color: #105290;
 }
 
 .blog-details-area .blog-sidebar .blog-widget .post-item:last-child {
@@ -3481,11 +3481,11 @@ h3 {
 }
 
 .blog-details-area .blog-sidebar .blog-widget ul li:last-child {
-  border-bottom: 0px solid #3c0c70;
+  border-bottom: 0px solid black;
 }
 
 .blog-details-area .blog-sidebar .blog-widget ul li:hover {
-  background: #ff440a;
+  background: #105290;
   color: #ffffff;
 }
 
@@ -3523,7 +3523,7 @@ h3 {
 }
 
 .blog-details-area .blog-sidebar .blog-tags ul li a:hover {
-  background: #ff440a;
+  background: #105290;
   color: #ffffff;
 }
 
@@ -3547,7 +3547,7 @@ h3 {
 .contact-card-section .contact-card::before {
   position: absolute;
   content: '';
-  background: #3c0c70;
+  background: black;
   bottom: 0;
   left: 0;
   width: 100%;
@@ -3613,7 +3613,7 @@ h3 {
 /*----------  Contact Page Two CSS End ----------*/
 /* PreLoader CSS Start */
 .loader-content {
-  background: #3c0c70;
+  background: black;
   height: 100%;
   width: 100%;
   position: fixed;
@@ -3727,7 +3727,7 @@ h3 {
   width: 40px;
   height: 50px;
   color: #ffffff;
-  background: #3c0c70;
+  background: black;
   text-align: center;
   border-radius: 5px;
   position: fixed;
@@ -3911,12 +3911,12 @@ h3 {
     background: #f5ebff;
   }
   35% {
-    background: #ff440a;
+    background: #105290;
     -webkit-transform: translateY(10px);
             transform: translateY(10px);
   }
   70% {
-    background: #3c0c70;
+    background: black;
     -webkit-transform: translateY(0px);
             transform: translateY(0px);
   }
@@ -3930,12 +3930,12 @@ h3 {
     background: #f5ebff;
   }
   35% {
-    background: #ff440a;
+    background: #105290;
     -webkit-transform: translateY(10px);
             transform: translateY(10px);
   }
   70% {
-    background: #3c0c70;
+    background: black;
     -webkit-transform: translateY(0px);
             transform: translateY(0px);
   }
